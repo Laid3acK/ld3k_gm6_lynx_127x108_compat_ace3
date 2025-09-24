@@ -1,4 +1,4 @@
-ACE3 compatibility for the GM6 Lynx 12.7x108mm with Sniper, APDS, API and APEI ammunitions.
+ACE3 compatibility for the GM6 Lynx 12.7x108mm with new Sniper, APDS, API and APEI ammunitions.
 - Can be played with or without CBA and ACE3.
 - Default ballistic muzzle velocities according to Advanced Ballistics ICAO muzzle velocities (15°C, 1013.25 hPa, 0%).
 - Default ballistic airFriction based on Advanced Ballistics ICAO ballistic coefficients and drag models with the [ACE3 tool by Ruthberg](https://github.com/acemod/ACE3/blob/master/tools/generate_airfriction_config.py).
@@ -9,10 +9,10 @@ ACE3 compatibility for the GM6 Lynx 12.7x108mm with Sniper, APDS, API and APEI a
 - Add 12.7x108mm B32 API datas from various sources.
 - Add 12.7x108mm BZT44M API Tracer datas from various sources.
 - Add 12.7x108mm MDZ APEI datas from Strelok Pro and various sources.
-- Add night vision capability to Arma 3 LRPS scope (Nightforce NXS 5.5-22x56).
-- Update Arma 3 LRPS scope reticles 6x and 25x correctly centered and calibrated at Arma 3 LRPS magnifications.
+- Update LRPS, AMS, Kahlia, Kahlia (Old) mRad reticles correctly centered and calibrated at Arma 3 magnifications.
+- Add night vision capability to LRPS, AMS, Kahlia, Kahlia (Old) scopes.
 - Add ACE3 AtragMx presets.
-- Terminal ballistic based on Arma 3 values.
+- Effects and terminal ballistic based on Arma 3 values.
 
 Download link: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3442448335)
 
